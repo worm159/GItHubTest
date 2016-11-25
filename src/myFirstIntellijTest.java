@@ -9,6 +9,7 @@ public class myFirstIntellijTest {
         System.out.println("Auch Hallo");
         System.out.println("blubb");
         System.out.println("today");
+        System.out.println("alskdjfalksdjf");
     }
 
 }
