@@ -11,6 +11,8 @@ public class myFirstIntellijTest {
         System.out.println("today");
         System.out.println("alskdjfalksdjf");
         System.out.println("Test");
+        //August Test
+        System.out.println("Brigitte");
         System.out.println("Steffi");
     }
 
