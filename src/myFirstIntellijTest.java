@@ -14,6 +14,7 @@ public class myFirstIntellijTest {
         //August Test
         System.out.println("Brigitte");
         System.out.println("Steffi");
+        //August Test2
     }
 
 }
