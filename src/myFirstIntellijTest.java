@@ -7,7 +7,7 @@ public class myFirstIntellijTest {
         System.out.println("Hallo, Welt!");
         System.out.println("Hallo, Du!");
         System.out.println("Auch Hallo");
-        System.out.println("blubba");
+        System.out.println("blubb");
     }
 
 }
