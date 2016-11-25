@@ -8,6 +8,7 @@ public class myFirstIntellijTest {
         System.out.println("Hallo, Du!");
         System.out.println("Auch Hallo");
         System.out.println("blubb");
+        System.out.println("today");
     }
 
 }
